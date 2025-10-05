@@ -1,43 +1,49 @@
-## Quem é este Pokémon? - Imersão Dev com Google Gemini e Alura!
+# 🎮 Quem é este Pokémon?
 
-**Um desafio para os treinadores de Pokémon!** 
+**Imersão Dev com Google Gemini e Alura!**
 
-**O que faz essa aplicação?**
+Um desafio especial para todos os treinadores Pokémon que querem testar suas habilidades e conhecer mais sobre a primeira geração!
 
-Essa aplicação permite que você busque por informações sobre seus Pokémon favoritos da primeira geração. Basta digitar o nome do Pokémon no campo de pesquisa e pronto! Você terá acesso a uma breve descrição e um link para mais informações.
+---
 
-**Como funciona?**
+## 🚀 O que essa aplicação faz?
 
-1. **Digite o nome:** Insira o nome do Pokémon que você deseja encontrar.
-2. **Clique em "Capturar!":** A aplicação irá procurar pelo Pokémon na sua base de dados.
-3. **Confira os resultados:** Se o Pokémon for encontrado, você verá seu nome, uma breve descrição e um link para o Pokédex oficial.
+Essa aplicação permite que você pesquise informações sobre seus Pokémon favoritos da **1ª geração**.
+Basta digitar o nome do Pokémon no campo de busca e… *Pronto!*
+Você terá acesso a uma breve descrição e um link direto para mais informações.
 
-**Tecnologias utilizadas:**
+---
 
-* **HTML:** A estrutura básica da página.
-* **CSS:** Para estilizar a página e deixar ela com uma cara bem legal! 
-* **JavaScript:** A mágica por trás da busca, onde a aplicação procura pelos Pokémon nos dados e exibe os resultados na tela.
+## 🕹️ Como funciona?
 
-**Como usar este projeto:**
+1. **Digite o nome** → Escreva o nome do Pokémon desejado no campo de pesquisa.
+2. **Clique em "Capturar!"** → A aplicação busca o Pokémon na base de dados.
+3. **Veja os resultados** → Se encontrado, você verá:
 
-1. **Clone o repositório:** Use o comando `git clone https://seu-repositorio.git` para clonar o projeto para sua máquina.
-2. **Abra o arquivo index.html:** Abra o arquivo `index.html` em seu navegador favorito.
-3. **Divirta-se!** Comece a procurar por seus Pokémon favoritos!
+   * ✅ Nome do Pokémon
+   * ✅ Breve descrição
+   * ✅ Link para a Pokédex oficial
 
-**Observações:**
+---
 
-* **Base de dados:** A base de dados dos Pokémon está armazenada no arquivo `dados.js`. Você pode adicionar mais Pokémon para expandir a sua Pokédex!
-* **Melhorias futuras:** Podemos adicionar mais funcionalidades como:
-    * **Filtros:** Buscar por tipo, geração, etc.
-    * **Imagens:** Mostrar uma imagem do Pokémon.
-    * **Mais gerações:** Expandir a base de dados para incluir Pokémon de outras gerações.
+## 🛠️ Tecnologias utilizadas
 
-**Contribuições:**
+* **HTML** → Estrutura da página
+* **CSS** → Estilização e visual inspirado no universo Pokémon
+* **JavaScript** → A lógica que faz a busca e exibe os resultados
 
-Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request! Toda ajuda é bem-vinda! 
+---
 
-**Vamos juntos construir a maior Pokédex do mundo!** 
+## 💡 Observações
+
+* 📌 **Base de dados:** Todos os Pokémon estão no arquivo `dados.js`. Você pode editar ou adicionar novos Pokémon para expandir sua Pokédex.
+* 🔮 **Possíveis melhorias:**
+
+  * Filtros por tipo, geração, etc.
+  * Inclusão de imagens oficiais dos Pokémon.
+  * Expansão para outras gerações além da primeira.
+
+---
 
 **Disclaimer:** Este projeto é apenas para fins de aprendizado e diversão. As informações sobre os Pokémon foram retiradas do site oficial da Pokémon Company.
 
-**#Pokémon #JavaScript #HTML #CSS #Desenvolvedor #Programação**
